@@ -1,3 +1,2 @@
-spring:
-  application:
-    name: cloud-consumer-test
+config:
+  info: "master branch,SpringCloud-config/config-dev.yml version-1"
